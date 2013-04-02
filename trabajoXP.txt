@@ -12,3 +12,39 @@ realizar proyectos de una forma mas rapida, reducir documentacion, pasos, proces
 calidad del mismo. Entonces se acuño el termino "Metodos Ágiles" para definir a los metodos que estaban surgiendo 
 como alternativa a las metodologias formales a las que se le consideraba excesivamente "pesadas" y rigidas en su 
 caracter normativo y fuerte dependencia de planificaciones detalladas previas al desarrollo.
+
+¿Que es XP?
+XP es una metodología para las pequeños y medianos equipos de desarrollo de software.
+XP es eficiente, ligero,de bajo riesgo,flexible y una predecible manera científica de desarrollar software.
+Extreme Programming (XP) fue concebido y desarrollado para hacer frente a las necesidades específicas de desarrollo 
+de software llevadas a cabo por equipos pequeños. Esta nueva metodologia ligera desafía muchos postulados convencionales
+
+Se distingue de otras metodologias por:
+  * Su respuesta temprana,concreto y continuo de ciclos cortos.
+  * Su enfoque de planificación incremental, que rápidamente se le ocurre
+    un plan general que se espera que evolucione a través de la vida de la
+    proyecto.
+  * Su capacidad de programar de forma flexible la aplicación de
+    funcionalidad, respondiendo a las necesidades cambiantes del negocio.
+  * Su dependencia de un proceso de diseño evolutivo que dura
+    como el sistema dura.
+
+XP es una disciplina de desarrollo de software. Es una disciplina porque hay ciertas cosas que usted tiene que hacer para 
+estar haciendo XP. XP está diseñado para trabajar con proyectos que pueden ser construidos por equipos de dos a diez programadores,
+que no están fuertemente limitados por el existente entorno informático, y donde un trabajo razonable de pruebas de ejecución
+se puede hacer en una fracción de un día.
+
+Algunas personas se asustan o enojan cuando se encuentran por primera vez con XP. Sin embargo, ninguna de las ideas en XP son nuevas,
+la mayoría son tan viejas como la programación.
+
+¿Que promete XP?
+XP promete reducir el riesgo del proyecto, mejorar la capacidad de respuesta a los cambios de negocio, mejorar la productividad en 
+toda la vida de un sistema y agregar diversión a la creación de software en los equipos, todo al mismo tiempo.
+Para los programadores, XP promete que ellos serán capaces de trabajar en las cosas que realmente importan, todos los días. 
+
+
+
+
+
+
+
