@@ -1,0 +1,14 @@
+EXTREME PROGRAMMING
+
+INTRODUCCION Y UN POCO DE HISTORIA
+La programacion extrema o eXtreme Programming (XP) es una metodologia de desarrolllo de la ingenieria de software 
+formulada por Kent Beck en 1999, autor de "Extreme Programming Explained: Embrace Change", libro en el que se 
+expuso una nueva metodologia denominada "Extreme Programming", su surgimiento se debio a las complicaciones que 
+producia el crecimiento y aumento de la complejidad de los programas en la epoca, y a su ves que hicieran falta 
+varios desarrolladores para un mismo proyecto y tiempos de desarrollos mas prolongados. Todo esto llevo a la 
+necesidad de mas organización y más planificación. El surgimiento de la programacion extrema produce un punto de 
+inflexion en un momento en donde se hace necesario una renovacion metodologica que busca satisfacer la necesidad de 
+realizar proyectos de una forma mas rapida, reducir documentacion, pasos, procesos, y tiempo, pero sin disminuir la 
+calidad del mismo. Entonces se acuño el termino "Metodos Ágiles" para definir a los metodos que estaban surgiendo 
+como alternativa a las metodologias formales a las que se le consideraba excesivamente "pesadas" y rigidas en su 
+caracter normativo y fuerte dependencia de planificaciones detalladas previas al desarrollo.
