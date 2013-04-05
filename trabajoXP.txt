@@ -42,32 +42,61 @@ toda la vida de un sistema y agregar diversion a la creacion de software en los 
 Para los programadores, XP promete que ellos seran capaces de trabajar en las cosas que realmente importan, todos los dias. 
 
 Algunas caracteristicas de eXtreme Programming.
-Esta metodologia hace incapie en el trabajo en equipo, y no solo entre los desarroladores, sino tambien, frecuentemente se debe integrar al cliente o su representante, de manera que se pueda dejar en claro las caracteristicas del software que son de mayor prioridad, y ademas para solucionar las dudas del equipo de programadores, dado que mientras mas comunicacion de los desarrolladores con el cliente haya, mejores resultados se obtendran, ya que sera mas claro que es lo que el cliente quiere, y que no.
+Esta metodologia hace incapie en el trabajo en equipo, y no solo entre los desarroladores, sino tambien, frecuentemente se debe
+integrar al cliente o su representante, de manera que se pueda dejar en claro las caracteristicas del software que son de mayor
+prioridad, y ademas para solucionar las dudas del equipo de programadores, dado que mientras mas comunicacion de los
+desarrolladores con el cliente haya, mejores resultados se obtendran, ya que sera mas claro que es lo que el cliente quiere, y que
+no.
 
-eXtreme Programming recomienda trabajar en equipo de a 2 o 3 programadores de modo tal que se desarrolla codigo de mayor calidad, el cual es revisado en el momento del desarrollo; es de alta importancia la escritura de codigo simple, supone que es mejor desarrollar algo sencillo y ahorrar tiempo de trabajo por si se requiere para solucionar problemas, que escribir codigo "complicado" y que tal vez sea de poca utilidad o simplemente nunca utilizado. Ademas, mientras mas simple se haya programado el sistema, la comunicacion resulta mas completa y se gana en tiempo y en costo(menos programadores se necesitaran).
+eXtreme Programming recomienda trabajar en equipo de a 2 o 3 programadores de modo tal que se desarrolla codigo de mayor calidad,
+el cual es revisado en el momento del desarrollo; es de alta importancia la escritura de codigo simple, supone que es mejor
+desarrollar algo sencillo y ahorrar tiempo de trabajo por si se requiere para solucionar problemas, que escribir codigo
+"complicado" y que tal vez sea de poca utilidad o simplemente nunca utilizado. Ademas, mientras mas simple se haya programado el
+sistema, la comunicacion resulta mas completa y se gana en tiempo y en costo(menos programadores se necesitaran).
 
 Fases del modelo eXtreme Programming.
 El ciclo de vida de eXtreme Programming consta de 6 partes:
 
 -Exploracion
-En esta parte, los clientes plantean las necesidades a los programadores, y los programadores se familiarizan con las herramientas y tecnologias a utilizar, luego se desarrola un prototipo. Esta parte por lo general, dependiendo del sistema a desarrollar puede llevar semanas o meses.
+En esta parte, los clientes plantean las necesidades a los programadores, y los programadores se familiarizan con las herramientas
+y tecnologias a utilizar, luego se desarrola un prototipo. Esta parte por lo general, dependiendo del sistema a desarrollar puede
+llevar semanas o meses.
 
 -Planificacion de la Entrega 
-En esta fase el cliente establece la prioridad de cada historia de usuario, y correspondientemente, los programadores realizan una estimacion del esfuerzo necesario de cada una de ellas. Se toman acuerdos sobre el contenido de la primera entrega y se determina un cronograma en conjunto con el cliente. Una entrega deberia obtenerse en no mas de tres meses. Esta fase dura unos pocos dias.  Por otra parte, el equipo de desarrollo mantiene un registro de la “velocidad” de desarrollo, establecida en puntos por iteracion, basandose principalmente en la suma de puntos correspondientes a las historias de usuario que fueron terminadas en la ultima iteracion.
+En esta fase el cliente establece la prioridad de cada historia de usuario, y correspondientemente, los programadores realizan una
+estimacion del esfuerzo necesario de cada una de ellas. Se toman acuerdos sobre el contenido de la primera entrega y se determina
+un cronograma en conjunto con el cliente. Una entrega deberia obtenerse en no mas de tres meses. Esta fase dura unos pocos dias.
+Por otra parte, el equipo de desarrollo mantiene un registro de la “velocidad” de desarrollo, establecida en puntos por iteracion,
+basandose principalmente en la suma de puntos correspondientes a las historias de usuario que fueron terminadas en la ultima
+iteracion.
 
 -Iteraciones
-Esta fase incluye varias iteraciones sobre el sistema antes de ser entregado. El Plan de Entrega esta compuesto por iteraciones de no mas de tres semanas. En la primera iteracion se puede intentar establecer una arquitectura del sistema que pueda ser utilizada durante el resto del proyecto. Esto se logra escogiendo las historias que fuercen la creacion de esta arquitectura, sin embargo, esto no siempre es posible ya que es el cliente quien decide que historias se implementaran en cada iteracion. Al final de la ultima iteracion el sistema estara listo para entrar en produccion. Todo el trabajo de la iteracion es expresado en tareas de programacion, cada una de ellas es asignada a un programador como responsable, pero llevadas a cabo por parejas de programadores.
+Esta fase incluye varias iteraciones sobre el sistema antes de ser entregado. El Plan de Entrega esta compuesto por iteraciones de
+no mas de tres semanas. En la primera iteracion se puede intentar establecer una arquitectura del sistema que pueda ser utilizada
+durante el resto del proyecto. Esto se logra escogiendo las historias que fuercen la creacion de esta arquitectura, sin embargo,
+esto no siempre es posible ya que es el cliente quien decide que historias se implementaran en cada iteracion. Al final de la
+ultima iteracion el sistema estara listo para entrar en produccion. Todo el trabajo de la iteracion es expresado en tareas de
+programacion, cada una de ellas es asignada a un programador como responsable, pero llevadas a cabo por parejas de programadores.
 
 -Produccion
 
-La fase de produccion requiere de pruebas adicionales y revisiones de rendimiento antes de que el sistema sea trasladado al entorno del cliente. Al mismo tiempo, se deben tomar decisiones sobre la inclusion de nuevas caracteristicas a la version actual, debido a cambios durante esta fase. Es posible que se rebaje el tiempo que toma cada iteracion, de tres a una semana. Las ideas que han sido propuestas y las sugerencias son documentadas para su posterior implementacion (por ejemplo, durante la fase de mantenimiento).
+La fase de produccion requiere de pruebas adicionales y revisiones de rendimiento antes de que el sistema sea trasladado al
+entorno del cliente. Al mismo tiempo, se deben tomar decisiones sobre la inclusion de nuevas caracteristicas a la version actual,
+debido a cambios durante esta fase. Es posible que se rebaje el tiempo que toma cada iteracion, de tres a una semana. Las ideas
+que han sido propuestas y las sugerencias son documentadas para su posterior implementacion (por ejemplo, durante la fase de
+mantenimiento).
 
 -Mantenimiento
-Mientras la primera version se encuentra en produccion, el proyecto eXtreme Programming debe mantener el sistema en funcionamiento al mismo tiempo que desarrolla nuevas iteraciones. De esta forma, la velocidad de desarrollo puede bajar despues de la puesta del sistema en produccion. La fase de mantenimiento puede requerir nuevo personal dentro del equipo y cambios en su estructura.
+Mientras la primera version se encuentra en produccion, el proyecto eXtreme Programming debe mantener el sistema en funcionamiento
+al mismo tiempo que desarrolla nuevas iteraciones. De esta forma, la velocidad de desarrollo puede bajar despues de la puesta del
+sistema en produccion. La fase de mantenimiento puede requerir nuevo personal dentro del equipo y cambios en su estructura.
 
 -Fin del Proyecto
 
-Es cuando el cliente no tiene mas historias para ser incluidas en el sistema, en simples palabras, el clientes se encuentra satisfecho. Se genera la documentacion final del sistema y no se realizan mas cambios en la arquitectura. El final del proyecto o tambien llamado "muerte del proyecto", tambien ocurre cuando el sistema no genera los beneficios esperados por el cliente o cuando no hay presupuesto para mantenerlo.
+Es cuando el cliente no tiene mas historias para ser incluidas en el sistema, en simples palabras, el clientes se encuentra
+satisfecho. Se genera la documentacion final del sistema y no se realizan mas cambios en la arquitectura. El final del proyecto o
+tambien llamado "muerte del proyecto", tambien ocurre cuando el sistema no genera los beneficios esperados por el cliente o cuando
+no hay presupuesto para mantenerlo.
 
 
 
